@@ -6,3 +6,5 @@ COPY horse.jpg /usr/share/nginx/html/
 EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
+
+# i love you hejasupa :D

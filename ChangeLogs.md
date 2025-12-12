@@ -1,9 +1,9 @@
 V1.0.2 (the christmas huge update) coming soon)
 
-- change the color to green for christmas vibes
-- added a smoother overlay with a light and dark mode switch
-- added christmas style removed the old style
-- added a hall of fame !
+- changing the color to green for christmas vibes
+- adding a smoother overlay with a light and dark mode switch
+- adding christmas style removed the old style
+- adding a hall of fame !
 
 V1.0.1 (the little improvement)
 

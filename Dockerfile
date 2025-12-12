@@ -8,3 +8,4 @@ EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
 # i love you hejasupa :D
+# dont even know if we need that anymore
